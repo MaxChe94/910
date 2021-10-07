@@ -11,6 +11,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Additional" Type="Folder">
+			<Property Name="GIT_FILE" Type="Bool">false</Property>
+			<Item Name="UTF8 LV80.vi" Type="VI" URL="../Additional/UTF8 LV80.vi"/>
+		</Item>
 		<Item Name="gui.lvlib" Type="Library" URL="../gui/gui.lvlib"/>
 		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 		<Item Name="Sensor.lvlib" Type="Library" URL="../Sensor/Sensor.lvlib"/>
