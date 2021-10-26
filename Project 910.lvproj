@@ -15,9 +15,14 @@
 			<Property Name="GIT_FILE" Type="Bool">false</Property>
 			<Item Name="UTF8 LV80.vi" Type="VI" URL="../Additional/UTF8 LV80.vi"/>
 		</Item>
+		<Item Name="Calibration btn.ctl" Type="VI" URL="../Custom Controls/Calibration btn.ctl"/>
+		<Item Name="check.ctl" Type="VI" URL="../Custom Controls/check.ctl"/>
+		<Item Name="Connect btn.ctl" Type="VI" URL="../Custom Controls/Connect btn.ctl"/>
+		<Item Name="Display btn.ctl" Type="VI" URL="../Custom Controls/Display btn.ctl"/>
 		<Item Name="gui.lvlib" Type="Library" URL="../gui/gui.lvlib"/>
 		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 		<Item Name="Sensor.lvlib" Type="Library" URL="../Sensor/Sensor.lvlib"/>
+		<Item Name="Settings btn.ctl" Type="VI" URL="../Custom Controls/Settings btn.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
